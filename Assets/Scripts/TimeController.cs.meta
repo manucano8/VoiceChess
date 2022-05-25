@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ae26b8ad183acc42a3266aff722c682
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tiempo1: {instanceID: 0}
+  - tiempo2: {instanceID: 0}
+  - B: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

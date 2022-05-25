@@ -1,0 +1,4 @@
+repository "VoiceChess@manucano8@cloud"
+  path "/"
+    br "/main"
+    co "/main"
